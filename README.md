@@ -9,3 +9,5 @@ It begins with a thorough assessment of existing technology and data sources, fo
 
 ![image](https://github.com/Vaishnavi15459/Smart-Grid-Solutions/assets/169531810/f2d816c9-f49e-415e-b1b4-029c25b0f8bc)
 
+### Tools used
+1. Node-RED![image](https://github.com/Vaishnavi15459/Smart-Grid-Solutions/assets/169531810/5894df1e-6d4a-4fe0-b5af-93e2d2f74a1e)
