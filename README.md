@@ -6,9 +6,9 @@ The primary objective of this project is to develop an accurate and reliable for
 ## Methodology
 The methodology for the Energy Utility Project involves a collaborative process with stakeholders, including plant operators and regulatory bodies.
 It begins with a thorough assessment of existing technology and data sources, followed by the acquisition of high-quality historical weather data. 
-
+<p align="center">
 ![image](https://github.com/Vaishnavi15459/Smart-Grid-Solutions/assets/169531810/f2d816c9-f49e-415e-b1b4-029c25b0f8bc)
-
+</p>
 ## Tools used
 <b>1. Arduino IDE:</b> used to write code and upload it to the board.
    
