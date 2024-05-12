@@ -30,7 +30,7 @@ It begins with a thorough assessment of existing technology and data sources, fo
      
 ![image](https://github.com/Vaishnavi15459/Smart-Grid-Solutions/assets/169531810/0e6b51b5-bff5-448c-b4c4-39420046c3ea)
 
-<b>16. Grafana:</b> Grafana is a multi-platform open source analytics and interactive visualization web application. It can produce charts, graphs, and alerts for the web when connected to supported data sources.
+<b>6. Grafana:</b> Grafana is a multi-platform open source analytics and interactive visualization web application. It can produce charts, graphs, and alerts for the web when connected to supported data sources.
 
 ![image](https://github.com/Vaishnavi15459/Smart-Grid-Solutions/assets/169531810/3870551c-656e-4e2c-aebe-4c740599a2fc)
 
@@ -44,7 +44,7 @@ It begins with a thorough assessment of existing technology and data sources, fo
 ## Conclusion
 To sum up, the execution of this energy utility project is a critical step toward effective and sustainable energy management. Focusing on cutting-edge technologies and renewable energy sources, the initiative not only tackles today's energy issues but also clears the path for a more robust and environmentally friendly future. The cooperative work put into this project demonstrates the dedication to improved energy security, economic sustainability, and environmental responsibility.
 
-:smiley:	:smiley:	:smiley:	
+                                                               :smiley:	:smiley:	:smiley:	
 
 
 
