@@ -18,19 +18,19 @@ It begins with a thorough assessment of existing technology and data sources, fo
    
 ![image](https://github.com/Vaishnavi15459/Smart-Grid-Solutions/assets/169531810/06b8b685-dbc6-4a5c-afb6-02af6c85e223)
 
-<b>4. EDA & ML:</b> Carry out Data Pre-processing and Handling Missing Values & Outliers
+<b>3. EDA & ML:</b> Carry out Data Pre-processing and Handling Missing Values & Outliers
    
 ![image](https://github.com/Vaishnavi15459/Smart-Grid-Solutions/assets/169531810/55902d89-b664-4b36-8b13-d92eead8b974)
 
-<b>6. pgAdmin4 :</b> a popular open-source graphical user interface (GUI) tool designed to manage and administer PostgreSQL databases.
+<b>4. pgAdmin4 :</b> a popular open-source graphical user interface (GUI) tool designed to manage and administer PostgreSQL databases.
    
 ![image](https://github.com/Vaishnavi15459/Smart-Grid-Solutions/assets/169531810/c826b84e-2aa1-46c6-bf21-17a90b665d87)
 
-<b>8. AWS:</b> provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered, pay-as-you-go basis.
+<b>5. AWS:</b> provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered, pay-as-you-go basis.
      
 ![image](https://github.com/Vaishnavi15459/Smart-Grid-Solutions/assets/169531810/0e6b51b5-bff5-448c-b4c4-39420046c3ea)
 
-<b>10. Grafana:</b> Grafana is a multi-platform open source analytics and interactive visualization web application. It can produce charts, graphs, and alerts for the web when connected to supported data sources.
+<b>16. Grafana:</b> Grafana is a multi-platform open source analytics and interactive visualization web application. It can produce charts, graphs, and alerts for the web when connected to supported data sources.
 
 ![image](https://github.com/Vaishnavi15459/Smart-Grid-Solutions/assets/169531810/3870551c-656e-4e2c-aebe-4c740599a2fc)
 
@@ -44,7 +44,7 @@ It begins with a thorough assessment of existing technology and data sources, fo
 ## Conclusion
 To sum up, the execution of this energy utility project is a critical step toward effective and sustainable energy management. Focusing on cutting-edge technologies and renewable energy sources, the initiative not only tackles today's energy issues but also clears the path for a more robust and environmentally friendly future. The cooperative work put into this project demonstrates the dedication to improved energy security, economic sustainability, and environmental responsibility.
 
-<i class="fa-duotone fa-face-smile"></i><i class="fa-duotone fa-face-smile"></i><i class="fa-duotone fa-face-smile"></i>
+:smiley:	:smiley:	:smiley:	
 
 
 
