@@ -43,9 +43,9 @@ It begins with a thorough assessment of existing technology and data sources, fo
 
 ## Conclusion
 To sum up, the execution of this energy utility project is a critical step toward effective and sustainable energy management. Focusing on cutting-edge technologies and renewable energy sources, the initiative not only tackles today's energy issues but also clears the path for a more robust and environmentally friendly future. The cooperative work put into this project demonstrates the dedication to improved energy security, economic sustainability, and environmental responsibility.
-
-                                                               :smiley:	:smiley:	:smiley:	
-
+<p align="center">
+:smiley:	:smiley:	:smiley:	
+</p>
 
 
  
